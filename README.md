@@ -6,6 +6,8 @@ transparent Hyprland layer shell overlay using bbpanzu's femtanyl token art.
 
 i try to match the 24fps, the perlin camera motion, the drop shadow, and the chromatic aberration.
 
+![](./femtanyl.gif)
+
 ## usage/installation
 
 - build and install the rust program
